@@ -1,0 +1,17 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.cache
+*.vs
+*.vscode

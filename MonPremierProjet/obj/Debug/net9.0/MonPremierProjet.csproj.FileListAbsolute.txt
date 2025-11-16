@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\Certification\C#\MonPremierProjet\obj\Debug\net9.0\refi
 C:\Users\Admin\Documents\Certification\C#\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.pdb
 C:\Users\Admin\Documents\Certification\C#\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.genruntimeconfig.cache
 C:\Users\Admin\Documents\Certification\C#\MonPremierProjet\obj\Debug\net9.0\ref\MonPremierProjet.dll
+c:\Users\Admin\Documents\Certification\C#\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.sourcelink.json
